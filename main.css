@@ -1,0 +1,17 @@
+div{
+    height:300px
+    width: 400px
+    border-width:thick
+    
+}
+p.bio{
+    text-align: right
+}
+
+span.title{
+    text-align: right
+}
+
+span.department{
+    text-align: right
+}
